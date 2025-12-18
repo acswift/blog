@@ -1,6 +1,7 @@
 
-### AI and the March of Nines
+<!-- vim: set foldmethod=marker fmr=###,--- :-->
 
+### AI and the March of Nines
 
 In the [Dwarkesh Patel podcast](https://youtu.be/lXUZvyajciY?si=rf9kDraM7KYeAvGg&t=6360), Andrej Karpathy says that AI development is a "march of nines".
 
