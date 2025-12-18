@@ -9,11 +9,25 @@ If it takes 1 year to get to 90%, it will take 1 year to get to 99% and another 
 
 I had not heard of this but it's useful in a lot of contexts, even just a simple programming task.
 
+---
+
 Developing Pwika, my SVG-based website builder, went like this and it always mystified me.
 
 So it might be helpful, when begining a project, to declare how many nines will be targeted.
 - if it's a 90% project, it'll take a year
 - if it's a 99% project, it'll take two years
+
+---
+
+It might be helpful for thinking about how fast AI will arrive more generally.
+
+My impression is that we're at about 60% — if I ask ChatGPT to help me with something, it frequently fails.
+
+So we're still not even at 90%. Perhaps it will take five more years to get to 90% — so let's say 15 years for 90%
+
+Then we can expect another 15 years to go from 90% to 99%. A very slow takeoff.
+
+---
 
 Think about self-driving cars — I was driving near my house the other day, and there was construction.
 
