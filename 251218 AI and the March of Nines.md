@@ -41,3 +41,4 @@ I arrived at a T intersection:
 
 This kind of situation, at least superficially, requires understanding what you're seeing, and I have to imagine that a car that can automatically navigate it is still far in the future.
 
+---

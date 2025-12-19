@@ -1,43 +1,16 @@
 
 <!-- vim: set foldmethod=marker fmr=###,--- :-->
 
-### AI and the March of Nines
+> 251219
 
-In the [Dwarkesh Patel podcast](https://youtu.be/lXUZvyajciY?si=rf9kDraM7KYeAvGg&t=6360), Andrej Karpathy says that AI development is a "march of nines".
+### Don't Fear the Socialist AI
 
-If it takes 1 year to get to 90%, it will take 1 year to get to 99% and another full year to get to 99.9%.
+From [Seb Krier](https://x.com/sebkrier/status/1999994684203045003)
 
-I had not heard of this but it's useful in a lot of contexts, even just a simple programming task.
+If you believe that capitalism is better than socialism because a centrally-run government lacks access to the knowledge to successfully manage the economy, you needn't be afraid that a single AI will take over the world.
 
----
+A super intelligent AI would still have the same problem as a socialist government — the knowledge necessary to be effective doesn't exist in a single place.
 
-Developing Pwika, my SVG-based website builder, went like this and it always mystified me.
-
-So it might be helpful, when begining a project, to declare how many nines will be targeted.
-- if it's a 90% project, it'll take a year
-- if it's a 99% project, it'll take two years
+So, such an AI would not be capable of suddenly running everything in its own fashion.
 
 ---
-
-It might be helpful for thinking about how fast AI will arrive more generally.
-
-My impression is that we're at about 60% — if I ask ChatGPT to help me with something, it frequently fails.
-
-So we're still not even at 90%. Perhaps it will take five more years to get to 90% — so let's say 15 years for 90%
-
-Then we can expect another 15 years to go from 90% to 99%. A very slow takeoff.
-
----
-
-Think about self-driving cars — I was driving near my house the other day, and there was construction.
-
-I arrived at a T intersection:
-- there was a cement truck parked to the left and another vehicle parked to the right, blocking my view of the cross street I was entering
-- there was blinding horizontal light from the sunrise
-- there was a dark-skinned black man in the sunlight wearing complex clothing
-- he was holding a panel that was green on one side and red on the other
-- he was indicating, in very haphazard way, when it was safe for me to pull into the other street
-- we made eye contact and he made a subtle gesture indicating that I should pull out
-
-This kind of situation, at least superficially, requires understanding what you're seeing, and I have to imagine that a car that can automatically navigate it is still far in the future.
-
