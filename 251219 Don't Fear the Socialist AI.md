@@ -3,7 +3,7 @@
 
 ### Don't Fear the Socialist AI
 
-*from [Seb Krier](https://x.com/sebkrier/status/1999994684203045003)*
+*inspired by [Seb Krier](https://x.com/sebkrier/status/1999994684203045003)*
 
 If you believe that capitalism is better than socialism because a centrally-run government lacks access to the knowledge to successfully manage the economy, you needn't be afraid that a single AI will take over the world.
 
