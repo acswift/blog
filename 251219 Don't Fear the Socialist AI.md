@@ -1,8 +1,6 @@
 
 <!-- vim: set foldmethod=marker fmr=###,--- :-->
 
-> 251219
-
 ### Don't Fear the Socialist AI
 
 *from [Seb Krier](https://x.com/sebkrier/status/1999994684203045003)*
