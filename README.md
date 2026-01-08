@@ -1,16 +1,18 @@
 
 <!-- vim: set foldmethod=marker fmr=###,--- :-->
 
-> 251219
+> 260108
 
-### Don't Fear the Socialist AI
+### George Lucas Avoided Distractions
 
-*from [Seb Krier](https://x.com/sebkrier/status/1999994684203045003)*
+*inspired by the book "[Les Guerres de Lucas](https://www.editions-deman.com/les-guerres-de-lucas)"*
 
-If you believe that capitalism is better than socialism because a centrally-run government lacks access to the knowledge to successfully manage the economy, you needn't be afraid that a single AI will take over the world.
+Reading a book about how George Lucas went about creating the first Star Wars movie was interesting.
 
-A super intelligent AI would still have the same problem as a socialist government — the knowledge necessary to be effective doesn't exist in a single place.
+Apparently he strenuously avoided making things flashy or distracting — the story took precedence, and the world he created had to feel normal, not new and bizarre.
 
-So, such an AI would not be capable of suddenly running everything in its own fashion.
+The example that most struck me was when the rebels first see the Millenium Falcon — Lucas insisted that they be in a cramped space where it wasn't really possible to see the entire ship.
+
+This stands in contrast to most modern sci-fi movies, where the camera makes sure you really get to appreciate the models and effects.
 
 ---
