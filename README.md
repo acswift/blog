@@ -17,6 +17,6 @@ Instead I would say that certain people provoke a sort of resonance in me that I
 
 And this is not a bad thing, it's great! Because I want to know myself, to shed light on the hidden corners of my psyche. And these people are like beacons saying "I bet there's something interesting in *that* corner..."
 
-It's self evident that there's nothing I have to fear from these people. They're people that I barely know, that have nothing to do with me.
+It's self evident that there's nothing I have to fear from these people. I barely know them; they have nothing to do with me.
 
 ---
