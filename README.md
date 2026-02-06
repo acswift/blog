@@ -1,19 +1,24 @@
 
 <!-- vim: set foldmethod=marker fmr=###,--- :-->
 
-> 260205
+> 260206
 
-### Realizing What's Important
+### Existentially Menacing People
 
-> To be completely cured of newspapers, spend a year reading the previous week's newspapers.
+From time to time in my life I have met people that I found to be unbearable. Not simply annoying or wrong, but an existential menace.
 
-*—Nassim Nicholas Taleb*
+A psychologist would say that they pushed my buttons.
+
+Even today I still *feel* that there was something *wrong* with them — that the threat I felt came from them, not from me.
+
+And the other day I was thinking: this is silly. There's obviously nothing about somebody that even *could* present an existential menace to me.
+
+Superficially, on the face of it, this person could not harm me.
+
+Instead I suspect that certain people provoke a sort of resonance in me that I find intolerable. The psychic wound is in me, and these people are just causing it to vibrate, as a guitar string vibrates when the same note is played nearby.
+
+And this is not a bad thing, it's great! Because I want to know myself, to shed light on the hidden corners of my psyche. And these people are like beacons saying "I bet there's something interesting in *that* corner..."
+
+It's self evident that there's nothing I have to fear from these people. They're people that I barely know, that have nothing to do with me.
 
 ---
-
-### People aren't Malevolent
-
-There have been people in my life that 
-when is somebody you don't get along with an they press my buttons like me and Gary from essential work it's kind of silly because obviously there's nothing about the person that presents like existential menace to me, but I feel like it's an existential menace to me and so I think it just sort of sets up some kind of resonance 
-
-his personality his vibe provokes a resonance in me that I find intolerable, but it's just self evident that there's nothing I have to fear from him. It's just a guy that I barely know that has nothing to do with me.
