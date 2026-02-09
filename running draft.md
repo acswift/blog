@@ -1,2 +1,3 @@
 - when I write by hand, the predictive engine in my head provides more interesting predictions than when I type
 - a catchy term for technical debt but in terms of a houshold/home maintenance
+- decapitated should be decorpitated
