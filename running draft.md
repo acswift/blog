@@ -1,0 +1,1 @@
+- when I write by hand, the predictive engine in my head provides more interesting predictions than when I type
